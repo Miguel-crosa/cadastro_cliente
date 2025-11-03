@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539934290897",
+    "project_id": "cadastro-cliente-40ac6",
+    "storage_bucket": "cadastro-cliente-40ac6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539934290897:android:7f47999ab93469f2c5e6f0",
+        "android_client_info": {
+          "package_name": "com.example.cadastro_cliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ69l8x7shqpbQqOMBDAeUs2ay8F3rVqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
