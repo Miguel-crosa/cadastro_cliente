@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBt0QZc3emqAZKYc6DbQ2gZMU-WMUs12uU',
+    apiKey: 'key',
     appId: '1:539934290897:web:043b05cdf63a2ea5c5e6f0',
     messagingSenderId: '539934290897',
     projectId: 'cadastro-cliente-40ac6',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAJ69l8x7shqpbQqOMBDAeUs2ay8F3rVqw',
+    apiKey: 'key',
     appId: '1:539934290897:android:7f47999ab93469f2c5e6f0',
     messagingSenderId: '539934290897',
     projectId: 'cadastro-cliente-40ac6',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyALraiKkSTiRI8aJ2k8Lg2dxjLsRBd-YMo',
+    apiKey: 'key',
     appId: '1:539934290897:ios:fe1f9fedc70a02f1c5e6f0',
     messagingSenderId: '539934290897',
     projectId: 'cadastro-cliente-40ac6',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyALraiKkSTiRI8aJ2k8Lg2dxjLsRBd-YMo',
+    apiKey: 'key',
     appId: '1:539934290897:ios:fe1f9fedc70a02f1c5e6f0',
     messagingSenderId: '539934290897',
     projectId: 'cadastro-cliente-40ac6',
